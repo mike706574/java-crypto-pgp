@@ -10,7 +10,7 @@
 
   <groupId>fun.mike</groupId>
   <artifactId>crypto-pgp-alpha</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
   <packaging>jar</packaging>
 
   <url>https://github.com/mike706574/java-crypto-pgp/</url>
